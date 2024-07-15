@@ -7,4 +7,9 @@ public class Student {
 		
 	}
 
+	public void sub()
+	{
+		
+	}
+
 }
