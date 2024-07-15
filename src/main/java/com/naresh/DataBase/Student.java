@@ -6,8 +6,7 @@ public class Student {
 	{
 		
 	}
-
-	public void sub()
+    public void sub()
 	{
 		
 	}
