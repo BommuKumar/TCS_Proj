@@ -10,5 +10,9 @@ public class Student {
 	{
 		
 	}
+    public void mul()
+   	{
+   		
+   	}
 
 }
