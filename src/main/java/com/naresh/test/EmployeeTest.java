@@ -1,4 +1,4 @@
-package com.naresh.DataBase.test;
+package com.naresh.test;
 
 public class EmployeeTest {
 	
