@@ -6,5 +6,13 @@ public class CollegeTest {
 	{
 		
 	}
+	public void GroupTest()
+	{
+		
+	}
+	public void SectionTest()
+	{
+		
+	}
 
 }
